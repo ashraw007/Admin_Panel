@@ -1,0 +1,12 @@
+.YearlyData {
+  width: 100%;
+}
+
+.Block {
+  display: block;
+}
+
+.Flex {
+  display: flex;
+  justify-content: space-around;
+}

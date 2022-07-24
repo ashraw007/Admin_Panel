@@ -1,0 +1,19 @@
+.LogList {
+  max-height: 80vh;
+  margin: 2%;
+  overflow: auto;
+}
+
+.LogList::-webkit-scrollbar-track {
+  border: 1px solid rgb(207, 80, 169);
+  background-color: #f5f5f5;
+}
+
+.LogList::-webkit-scrollbar {
+  width: 10px;
+  background-color: #f5f5f5;
+}
+
+.LogList::-webkit-scrollbar-thumb {
+  background-color: #211665;
+}

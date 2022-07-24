@@ -1,0 +1,32 @@
+.Danger {
+  background-color: #e53935 !important;
+  color: white !important;
+}
+
+.Safe {
+  background-color: darkgray !important;
+}
+
+.Promote {
+  background-color: #32cd32 !important;
+  color: white !important;
+}
+
+.Danger:hover {
+  background-color: #b71c1c !important;
+}
+
+.Safe:hover {
+  background-color: #0f0f0f !important;
+  color: white !important;
+}
+
+.Promote:hover {
+  background-color: #228b22 !important;
+}
+
+.Center {
+  display: flex;
+  justify-content: space-around;
+  margin: 2%;
+}

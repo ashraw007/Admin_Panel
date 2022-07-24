@@ -1,0 +1,6 @@
+.Bottons {
+  width: 100%;
+  justify-content: space-evenly;
+  display: flex;
+  margin: 10px;
+}

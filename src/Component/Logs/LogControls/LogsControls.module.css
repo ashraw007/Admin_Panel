@@ -1,0 +1,13 @@
+.Buttons {
+  width: 100%;
+  justify-content: space-evenly;
+  display: flex;
+  margin: 10px;
+}
+
+.Center {
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+}

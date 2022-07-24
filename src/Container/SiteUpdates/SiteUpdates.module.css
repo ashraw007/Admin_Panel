@@ -1,0 +1,21 @@
+.Site {
+  margin: 0% 3%;
+}
+
+.Accordion {
+  margin-top: 2%;
+}
+
+.Accordion > * {
+  margin: 2% 0%;
+}
+
+.Notices {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.Notices > * {
+  margin: 1% 0;
+}

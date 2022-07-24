@@ -1,0 +1,14 @@
+.Div {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  border-radius: 3px;
+  margin: 2% 6%;
+  padding: 1%;
+  flex-direction: column;
+  text-align: center;
+}
+
+.Div button {
+  margin: 2% 10%;
+}
